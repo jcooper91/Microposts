@@ -1,3 +1,4 @@
 # Microposts
 A CRUD app that displays a users posts
-Read me ini
+## Getting Started
+You will need NPM installed locally on your machine
