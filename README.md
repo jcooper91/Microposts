@@ -26,9 +26,9 @@ npm run build
 ```
 
 ### Install JSON Server
-
+```
 npm install json-server --save  
-
+```
 *Remember to add json-server to your scripts in package.json*
 
 
